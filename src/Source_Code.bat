@@ -1,4 +1,5 @@
 @echo off
+msg %Username% /v /w This is not a joke. Continue?
 chcp 65001
 cls
 cd /d ./
